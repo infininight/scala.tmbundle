@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>object ${1:${TM_FILENAME/(.*)\.scala/$1/}} ${2:extends ${3:Any} }{
+	<string>${1:${2|private,protected|} }object ${3:${TM_FILENAME/(.*)\.scala/$1/}} ${4:extends ${5:Any} }{
 	$0
 }</string>
 	<key>name</key>

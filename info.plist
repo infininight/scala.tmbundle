@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string>mads379@gmail.com</string>
+	<string>znqf379@tznvy.pbz</string>
 	<key>contactName</key>
 	<string>Mads Hartmann</string>
 	<key>deleted</key>
@@ -23,6 +23,8 @@
 		<string>77234CC7-A867-4931-9DE1-A13F0CBF9026</string>
 		<string>6B5F65D8-41FC-4DC4-A4EE-FBD30948BD0B</string>
 	</array>
+	<key>description</key>
+	<string>Support for the &lt;a href="scala-lang.org/"&gt;Scala&lt;/a&gt; programming language.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>

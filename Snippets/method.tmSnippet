@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>def ${1:method}${2:(${4:arg}: ${5:Type})} = {
-	${0}
+	<string>${1:${2:override }${3:${4|private,protected,implicit|} }}def ${5:method}${6:(${7:arg}: ${8:Type}$9)} = {
+	$0
 }</string>
 	<key>name</key>
 	<string>method</string>

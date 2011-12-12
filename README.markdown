@@ -40,8 +40,18 @@ Shell variables
 Installation
 ------------
 
+For Textmate 1 users
+
 <pre><code>git clone git://github.com/mads379/scala.tmbundle.git
 open scala.tmbundle
+</code></pre>
+
+For Textmate 2 alpha users 
+
+<pre><code>cd /Users/Mads/Library/Application\ Support/Avian/Bundles/
+git clone git://github.com/mads379/scala.tmbundle.git
+cd scala.tmbundle
+git checkout textmate2
 </code></pre>
 
 Contributors
